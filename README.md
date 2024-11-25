@@ -2,7 +2,7 @@
 
 Welcome to our Steam Market Insights and Prediction project, a data-driven approach to enhancing decision-making in the video game industry. By analyzing Steam's extensive game data, we provide valuable insights and predictive models that empower developers, publishers, and investors to optimize game pricing, enhance player engagement, and predict market trends effectively.
 
-Explore our [Sample PowerBI Dashboard](https://github.com/snmatharu/steam_game_analysis.git/dashboard) for a live demonstration.
+Explore our [Sample PowerBI Dashboard](https://github.com/snmatharu/steam_game_analysis/tree/main/dashboard) for a live demonstration.
 
 ## Prerequisites
 - Anaconda or Miniconda installed
