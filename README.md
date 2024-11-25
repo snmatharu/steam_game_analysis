@@ -2,7 +2,7 @@
 
 Welcome to our Steam Market Insights and Prediction project, a data-driven approach to enhancing decision-making in the video game industry. By analyzing Steam's extensive game data, we provide valuable insights and predictive models that empower developers, publishers, and investors to optimize game pricing, enhance player engagement, and predict market trends effectively.
 
-Explore our [Sample PowerBI Dashboard](https://github.com/TRU-PBADS/adsc3910-project-group-3/tree/main/dashboard) for a live demonstration.
+Explore our [Sample PowerBI Dashboard](https://github.com/snmatharu/steam_game_analysis.git/dashboard) for a live demonstration.
 
 ## Prerequisites
 - Anaconda or Miniconda installed
@@ -79,8 +79,8 @@ main/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/TRU-PBADS/adsc3910-project-group-3.git
-cd adsc3910-project-group-3/main
+git clone https://github.com/snmatharu/steam_game_analysis.git
+cd steam_game_analysis/main
 ```
 
 ### 2. Create and Activate Conda Environment
@@ -177,7 +177,7 @@ python test_setup.py
 Run the project by running `main.py`:
 
 Run the main script:
-(Make sure you are in adsc3910-project-group-3/main)
+(Make sure you are in steam_game_analysis/main)
 
 ```bash
 python main.py
